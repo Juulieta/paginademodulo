@@ -1,4 +1,4 @@
-# Pagina de modulo de julieta y Alexa
+# Pagina de modulo de julieta
 
 Morales Nuñez Julieta 
 
