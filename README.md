@@ -5,4 +5,4 @@ Morales Nuñez Julieta
 
 Tenorio Aquilar Alexa
 
-<img src="estrella.png">
+<img src="download.png">
