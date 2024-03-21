@@ -1,6 +1,6 @@
 # Pagina de modulo de julieta y Alexa
 
-Morales Nuñez Julieta sjkhsf
+Morales Nuñez Julieta 
 
 
 Tenorio Aquilar Alexa
