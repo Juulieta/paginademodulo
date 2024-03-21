@@ -1,6 +1,6 @@
-# Pagina de modulo de julieta
+# Pagina 1 de modulo de julieta
 
-Morales Nuñez Julieta 
+Tenorio Aguilar Alexa  
 
 
 
