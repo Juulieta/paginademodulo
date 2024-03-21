@@ -3,6 +3,6 @@
 Morales Nuñez Julieta 
 
 
-Tenorio Aquilar Alexa
+
 
 <img src="download.png">
