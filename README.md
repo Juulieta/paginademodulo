@@ -3,4 +3,4 @@
 Morales Nuñez Julieta
 Tenorio Aquilar Alexa
 
-<img src="">
+<img src="estrella.png">
